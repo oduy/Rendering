@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ODuy\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ODuy\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Rendering.-1778044833.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ODuy\Desktop\Unity\Rendering" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Matrices" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CameraTransformation.cs" t="Include" />
+            <e p="PositionTransformation.cs" t="Include" />
+            <e p="RotationTransformation.cs" t="Include" />
+            <e p="ScaleTransformation.cs" t="Include" />
+            <e p="Transformation.cs" t="Include" />
+            <e p="TransformationGrid.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shader Fundamentals" t="Include">
+          <e p="Shader" t="Include">
+            <e p="MyFirstShader.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Rendering.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
